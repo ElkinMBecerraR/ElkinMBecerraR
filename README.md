@@ -29,23 +29,6 @@ Apasionado por la tecnología, la arquitectura de software y el desarrollo de so
 
 ---
 
-### 💻 Desarrollo & Código
-
-<p align="center">
-  http://googleusercontent.com/image_generation_content/0
-</p>
-
----
-
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Elkin" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Elkin" />
-</p>
 
 ---
 
