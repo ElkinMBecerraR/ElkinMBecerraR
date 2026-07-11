@@ -2,7 +2,7 @@
 
 Backend Software Engineer | Systems Engineer
 
-Apasionado por la tecnología, la arquitectura de software y el desarrollo de soluciones robustas, escalables y eficientes. Me especializo en el ecosistema de Java y la creación de microservicios y APIs REST bajo buenas prácticas de diseño.
+Apasionado por la tecnología, la arquitectura de software y el desarrollo de soluciones robustas, escalables y eficientes. Me especializo en el ecosistema backend con enfoque en Java y arquitecturas modernas, complementando mi stack con herramientas frontend y móviles para una visión integral del desarrollo.
 
 ---
 
@@ -20,11 +20,20 @@ Apasionado por la tecnología, la arquitectura de software y el desarrollo de so
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | Java, JavaScript |
-| **Frameworks** | Spring Boot (Data, Security, Cloud), GeneXus |
+| **Backend & Lenguajes** | Java, PHP, Kotlin, JavaScript |
+| **Frameworks Backend** | Spring Boot (Data, Security, Cloud), Laravel |
+| **Frontend** | React, HTML5, CSS3 |
 | **Bases de Datos** | PostgreSQL, MySQL, SQL Server |
 | **Herramientas & DevOps** | Git, GitHub, Railway, Docker |
-| **Librerías & Integraciones** | iText, Wacom SDK (Firmas biométricas digitales) |
+| **Especialidades & APIs** | Integración de Identidad, iText |
+
+---
+
+### 💻 Desarrollo & Código
+
+<p align="center">
+  http://googleusercontent.com/image_generation_content/0
+</p>
 
 ---
 
@@ -44,5 +53,4 @@ Apasionado por la tecnología, la arquitectura de software y el desarrollo de so
 
 A las órdenes para charlar sobre desarrollo backend, arquitectura de software o nuevas oportunidades tecnológicas.
 
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) 💼
-- **Email:** tu-correo@ejemplo.com 📧
+- **Email:** elkinbecerra16@gmail.com 📧
