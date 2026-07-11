@@ -10,7 +10,7 @@ Apasionado por la tecnología, la arquitectura de software y el desarrollo de so
 
 - 🏢 Actualmente trabajando como **Desarrollador de Software** en el sector financiero/cooperativo.
 - 🛠️ Especializado en el desarrollo **Backend** con **Java** y **Spring Boot**.
-- 📐 Aplicando patrones de diseño y arquitecturas limpias (como **Arquitectura Hexagonal**).
+- 📐 Aplicando patrones de diseño y arquitecturas limpias.
 - ⚙️ Interesado en la gestión de infraestructura cloud, despliegues eficientes y optimización del rendimiento en la JVM.
 - 🎓 Graduado como **Ingeniero de Sistemas** de la Universidad Francisco de Paula Santander.
 
