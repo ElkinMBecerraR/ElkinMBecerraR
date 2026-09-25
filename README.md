@@ -1,17 +1,18 @@
 # ¡Hola! Soy Elkin Mauricio Becerra Ropero 👋
 
-Backend Software Engineer | Systems Engineer
+# Software Engineer | Mobile (Flutter) & Backend
 
-Apasionado por la tecnología, la arquitectura de software y el desarrollo de soluciones robustas, escalables y eficientes. Me especializo en el ecosistema backend con enfoque en Java y arquitecturas modernas, complementando mi stack con herramientas frontend y móviles para una visión integral del desarrollo.
+Apasionado por la arquitectura de software, el rendimiento y el desarrollo de soluciones transaccionales robustas y escalables. Especializado en el desarrollo móvil con **Flutter & Dart** bajo principios de **Clean Architecture**, complementado con un sólido background en ingeniería **Backend** para ofrecer una visión integral y de extremo a extremo en el ciclo de vida del software.
 
 ---
 
 ### 🚀 Sobre Mí
 
-- 🏢 Actualmente trabajando como **Desarrollador de Software** en el sector financiero/cooperativo.
-- 🛠️ Especializado en el desarrollo **Backend** con **Java** y **Spring Boot**.
-- 📐 Aplicando patrones de diseño y arquitecturas limpias.
-- ⚙️ Interesado en la gestión de infraestructura cloud, despliegues eficientes y optimización del rendimiento en la JVM.
+- 🏢 Actualmente trabajando como **Desarrollador de Software** en el sector financiero/cooperativo, liderando soluciones móviles y transaccionales.
+- 📱 Especializado en desarrollo **Mobile** con **Flutter / Dart**, implementando gestión de estado (**Riverpod, Provider**) y arquitecturas desacopladas.
+- 📐 Aplicando rigurosamente **Clean Architecture**, **Domain-Driven Design (DDD)** y principios **SOLID**.
+- 🛠️ Fuerte experiencia en integración con servicios **Backend** (Java, Spring Boot, APIs RESTful) y seguridad transaccional.
+- 🚀 Experiencia en automatización de despliegues (**CI/CD**), publicación de apps en tiendas (**Google Play Console**, **App Store Connect**) y rollouts progresivos.
 - 🎓 Graduado como **Ingeniero de Sistemas** de la Universidad Francisco de Paula Santander.
 
 ---
@@ -20,16 +21,15 @@ Apasionado por la tecnología, la arquitectura de software y el desarrollo de so
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Backend & Lenguajes** | Java, PHP, Kotlin, JavaScript |
+| **Mobile Development** | Flutter, Dart, Riverpod, Provider, Clean Architecture, Widgets & UI/UX |
+| **Arquitectura & Metodologías** | Clean Architecture, DDD, SOLID, Design Patterns, RESTful APIs |
+| **Backend & Lenguajes** | Java, Kotlin, PHP, JavaScript |
 | **Frameworks Backend** | Spring Boot (Data, Security, Cloud), Laravel |
-| **Frontend** | React, HTML5, CSS3 |
-| **Bases de Datos** | PostgreSQL, MySQL, SQL Server |
-| **Herramientas & DevOps** | Git, GitHub, Railway, Docker |
-| **Especialidades & APIs** | Integración de Identidad, iText |
+| **Bases de Datos & Almacenamiento** | SQLite, Hive/Isar, PostgreSQL, MySQL, SQL Server |
+| **DevOps & Herramientas** | Git, GitHub, CI/CD (Pipelines), Docker, Railway, Postman |
+| **Mobile Ops & Despliegue** | Google Play Console (Staged Rollouts), App Store Connect |
 
 ---
-
-
 ---
 
 ### 🤝 Conectemos
